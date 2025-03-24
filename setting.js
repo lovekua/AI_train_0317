@@ -1,5 +1,5 @@
-let myname="홍길동"
-let myproject="스프링 WAS 활용한 로그인 시스템"
+let myname="박주영"
+let myproject="테라스기반 텐서플로우 AI모델 포트폴리오"
 
 $(()=>{
 	$("#maintitle").text(`${myproject} [${myname}]`)
