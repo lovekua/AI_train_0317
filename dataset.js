@@ -33,10 +33,15 @@ d1.set_img(2,{imgtitle:"형상관리도구 git",imgurl:"https://drive.google.com
 
 d1.set_fill("서버의 보안성과 각 수행기능별 패턴을 분리하기 위해 Spring WAS 와 사용자 View 기능을 위해 웹브라우져에서 일반적인 작동이 가능한 HTML5 를 구현하며 데이터베이스 연동 대신 파일로 회원목록 저장")//사용자 에필로그
 data_sets.push(d1)
-
+//d2.set_img(0,{imgtitle:"",imglog:"",imgurl:"",sourceurl:"https://github.com/lovekua/AI_train_0317/blob/main/classficationSoftmax_fashionmnist/Examp_classification_fashionMnist.py"})//이미지타이틀
 // menu2 =============================================================
-let d2 = new DataSet("공통모듈구현")//메인타이틀
-
+let d2 = new DataSet("분류모델구현")//메인타이틀
+d2.set_content("패션 moist 회귀 다중 분류.")//서브 타이틀
+d2.set_img(0,{imgtitle:"",imglog:"",imgurl:"",sourceurl:"https://github.com/lovekua/AI_train_0317/blob/main/classficationSoftmax_fashionmnist/Examp_classification_fashionMnist.py"})//이미지타이틀
+d2.set_img(0,{imgtitle:"",imglog:"",imgurl:"",sourceurl:"https://github.com/lovekua/AI_train_0317/blob/main/classficationSoftmax_fashionmnist/Examp_classification_fashionMnist.py"})//이미지타이틀
+//https://github.com/lovekua/AI_train_0317/blob/main/classficationSoftmax_fashionmnist/Examp_classification_fashionMnist.py
+https://drive.google.com/file/d/1gKlAeMSj3c0ZT77286VcpiPH_EcqR8Mw/view?usp=drive_link
+https://drive.google.com/file/d/1JpBBKJOMjbPs2PffhKzbSGN086GjB7Mq/view?usp=drive_link
 data_sets.push(d2)
 
 // menu3 =============================================================
