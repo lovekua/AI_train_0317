@@ -40,8 +40,8 @@ d2.set_content("패션 moist 회귀 다중 분류.")//서브 타이틀
 d2.set_img(0,{imgtitle:"",imglog:"",imgurl:"",sourceurl:"https://github.com/lovekua/AI_train_0317/blob/main/classficationSoftmax_fashionmnist/Examp_classification_fashionMnist.py"})//이미지타이틀
 d2.set_img(0,{imgtitle:"",imglog:"",imgurl:"",sourceurl:"https://github.com/lovekua/AI_train_0317/blob/main/classficationSoftmax_fashionmnist/Examp_classification_fashionMnist.py"})//이미지타이틀
 //https://github.com/lovekua/AI_train_0317/blob/main/classficationSoftmax_fashionmnist/Examp_classification_fashionMnist.py
-https://drive.google.com/file/d/1gKlAeMSj3c0ZT77286VcpiPH_EcqR8Mw/view?usp=drive_link
-https://drive.google.com/file/d/1JpBBKJOMjbPs2PffhKzbSGN086GjB7Mq/view?usp=drive_link
+// https://drive.google.com/file/d/1gKlAeMSj3c0ZT77286VcpiPH_EcqR8Mw/view?usp=drive_link
+// https://drive.google.com/file/d/1JpBBKJOMjbPs2PffhKzbSGN086GjB7Mq/view?usp=drive_link
 data_sets.push(d2)
 
 // menu3 =============================================================
